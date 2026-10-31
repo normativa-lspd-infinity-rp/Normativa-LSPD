@@ -40,14 +40,6 @@
 
 **Artículo 15.** Oficiales desde el rango **X**, en adelante, si deciden encubrir a sus compañeros, recibirán FK/despido definitivo.
 
-**Artículo 16.** En el caso de que un Oficial se encuentre bajo investigación de Asuntos Internos y debido a que "ha jurado proteger y servir a Los Santos", estará obligado a aceptar los siguientes puntos:
+**Artículo 16.** Toda persona ajena a SAPD tiene prohibido acceder a las instalaciones de policía de cualquiera de las comisarías. Únicamente podrán acceder aquellos que tengan razones suficientes y con la presencia de un oficial de policía.
 
-* No tener derecho a guardar silencio, puesto que el rige policía y servirá en su contra como un tribunal estatal de justicia.
-* Rige el código de responder cualquiera de las preguntas realizadas por los investigadores, será despedido de forma inmediata.
-* No podrá ejercer como policía mientras que la investigación siga en curso y ya resolución sea en contra de su persona.
-* Es importando destacar que, al firmar el certificado de ingreso al Departamento de Policía de San Andreas (SAPD) y recibir nuestras armas, Grupos de Cadete, equipamiento etcétera, V.S. se somete estrictamente a las ofertas y su acatamiento obligatorio para el oficial.
-* Notas investigativas en las dirigidas al "SAPD" por Dirección del Departamento de Policía de San Andreas (SAPD). En casos especiales, las investigaciones podrán ser destinadas a otros divisiones, pero con la autorización expresa de una directiva o la de inspectores.
-
-**Artículo 17.** Todo persona ajena a SAPD tiene prohibido acceder a las instalaciones de de policía de cualquiera de las comisarías. Únicamente podrán acceder aquellos que tengan razones suficientes y pase y ronda de presencia de un oficial de policía.
-
-**Artículo 18.** La información de todos los oficiales de la SAPD es confidencial, no podrá ser filtrada y...
+**Artículo 17.** La información de todos los oficiales de la SAPD es confidencial, no podrá ser filtrada y quien rompa dicha norma será expulsado por corrupción con efecto inmediato.
