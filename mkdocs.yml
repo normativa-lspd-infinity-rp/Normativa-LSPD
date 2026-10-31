@@ -23,10 +23,13 @@ theme:
     - search.suggest
     - search.highlight
 
-# Extensiones para habilitar los recuadros de colores y avisos
+# Extensiones para habilitar recuadros de colores, avisos y pestañas (tabs)
 markdown_extensions:
   - admonition
   - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true
 
 # Estructura del menú lateral
 nav:
@@ -38,3 +41,5 @@ nav:
       - 2.2 Imagen Institucional: organizacion/imagen-institucional.md
       - 2.3 Jerarquía: organizacion/jerarquia.md
       - 2.4 Remuneraciones y Beneficios: organizacion/remuneraciones.md
+  - 3. EQUIPAMIENTO Y RECURSOS:
+      - 3.1 Alertas - Defcon: equipamiento/alertas.md
