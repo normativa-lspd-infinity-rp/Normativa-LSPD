@@ -24,7 +24,7 @@ Los civiles deben enviar llamadas (**entornos**) antes de hacer un acto ilícito
 
 ---
 
-## 🏛️ Pauta de Permanencia en Comisaría y Despacho de Auxilio (SAPD)
+## 🏛️ Pauta de Permanencia en Comisaría y Despacho de Auxilio (LSPD)
 
 * **Uso de la Comisaría:** Los oficiales de SAPD pueden permanecer en las instalaciones para desarrollar rol social (atención en recepción, papeleo, reuniones) o para un periodo breve de descanso tras finalizar una ronda de patrullaje.
 * **Obligatoriedad de Respuesta:** Si el agente se encuentra en servicio activo, la atención en la comisaría pasa a un segundo plano. Es **obligatorio** responder y acudir al aviso o llamada de emergencia a la brevedad.
