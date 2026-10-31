@@ -44,8 +44,6 @@ nav:
   - 3. EQUIPAMIENTO Y RECURSOS:
       - 3.1 Alertas - Defcon: equipamiento/alertas.md
       - 3.2 Props y Uso: equipamiento/props.md
-      - 6.1 High Speed Interceptor [HSIU]: equipamiento/hsiu.md
-      - 6.2 Special Weapons And Tactics [SWAT]: equipamiento/swat.md
   - 4. PROCEDIMIENTOS OPERATIVOS:
       - 4.2 Prisión y Carceleta: procedimientos/prision.md
       - 4.3 Búsqueda y Captura: procedimientos/busqueda-captura.md
@@ -61,3 +59,6 @@ nav:
       - 5.10 Zonas Peligrosas: patrullaje/zonas-peligrosas.md
       - 5.11 Secuestro a Oficiales: patrullaje/secuestro-oficiales.md
       - 5.12 Sistema de Atrincheramientos: patrullaje/atrincheramientos.md
+  - 6. DIVISIONES LSPD:
+      - 6.1 High Speed Interceptor [HSIU]: divisiones/hsiu.md
+      - 6.2 Special Weapons And Tactics [SWAT]: divisiones/swat.md
