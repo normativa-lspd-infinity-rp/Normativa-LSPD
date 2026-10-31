@@ -6,7 +6,7 @@ Los civiles deben enviar llamadas (**entornos**) antes de hacer un acto ilícito
 
 ## 🚔 Procedimiento Operativo Policial
 
-* **Notificación a Mando o todas las unidades:** Se debe informar al MANDO y unidades sobre la asistencia a cualquier llamado para que no lleguen más unidades al llamado 911.
+* **Notificación a Mando:** Se debe informar al MANDO y unidades en servicio sobre la asistencia a cualquier llamado.
 * **Uso obligatorio de luces y sonido:** Cuando un oficial atienda un llamado por obligación, **debe ir con las balizas encendidas y con sonido en todo momento.** En caso de que se desplace a alta velocidad por una emergencia, también deberá mantener las balizas y el sonido activos. De no hacerlo, se aplicará una **sanción**.
 * **Marcado de ubicación:** El copiloto (**compañero de patrulla**) debe marcar obligatoriamente la ubicación de la alerta en el mapa.
 * **Distancia prudente:** Al llegar al lugar, la policía debe tomar **una distancia considerable** del **asaltante o del acto ilícito**.
@@ -24,7 +24,7 @@ Los civiles deben enviar llamadas (**entornos**) antes de hacer un acto ilícito
 
 ---
 
-## 🏛️ Pauta de Permanencia en Comisaría y Despacho de Auxilio (LSPD)
+## 🏛️ Pauta de Permanencia en Comisaría y Despacho de Auxilio (SAPD)
 
 * **Uso de la Comisaría:** Los oficiales de SAPD pueden permanecer en las instalaciones para desarrollar rol social (atención en recepción, papeleo, reuniones) o para un periodo breve de descanso tras finalizar una ronda de patrullaje.
 * **Obligatoriedad de Respuesta:** Si el agente se encuentra en servicio activo, la atención en la comisaría pasa a un segundo plano. Es **obligatorio** responder y acudir al aviso o llamada de emergencia a la brevedad.
