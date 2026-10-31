@@ -26,7 +26,7 @@ Al momento de entrar en servicio, el oficial deberá ingresar al canal **ESPERAN
 !!! info "Asignación a Llamados"
     **Mando será el encargado de asignar a oficiales a los llamados. Bajo ningún término estos podrán autoasignarse a llamados.**
 
-* **Atención a robos medianos y grandes:** En casos de alertas de robos medianos o grandes (joyerías, bancos, tiendas), los oficiales deberán **esperar la asignación por parte del mando** correspondiente.
+* **Atención a robos medianos y grandes:** En casos de alertas de robos medianos o grandes (joyerías, bancos, yate), los oficiales deberán **asisit con el traje respectivo para operaciones tácticas** correspondiente.
 
 * **Responsabilidad sobre patrullas:** Cada oficial es responsable de mantener su patrulla **en perfecto estado y con el tanque de combustible lleno**.
 
