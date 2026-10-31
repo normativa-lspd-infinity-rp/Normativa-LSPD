@@ -14,8 +14,11 @@
 
 **Artículo 7.** Si se realiza una denuncia contra un miembro de SAPD, independientemente de su distrito o rango, dicho oficial será suspendido de empleo y sueldo hasta que la investigación correspondiente haya finalizado.
 
-* **Reincidencia de los hechos.** Se estima de que si el oficial reincide en los hechos denunciados, se aplicarán las sanciones correspondientes, ya sea desde el baneo definitivo del cuerpo policial.
-* **Resguardo de las normas y contratos diferentes.** Con otras rangos y/o normas u órdenes recurrentes que impliquen un contrato delictivo, se llevará a cabo una investigación interna del sujeto. Con base a los resultados de dicha investigación, se determinará si el oficial será continuo en la SAPD o si corresponderá aplicar sanciones a su remuneración.
+!!! info "Reincidencia de los hechos"
+    Se estima de que si el oficial reincide en los hechos denunciados, se aplicarán las sanciones correspondientes, ya sea desde el baneo definitivo del cuerpo policial.
+
+!!! warning "Resguardo de las normas y contratos diferentes"
+    Con otras rangos y/o normas u órdenes recurrentes que impliquen un contrato delictivo, se llevará a cabo una investigación interna del sujeto. Con base a los resultados de dicha investigación, se determinará si el oficial será continuo en la SAPD o si corresponderá aplicar sanciones a su remuneración.
 
 **Artículo 8.** Se deberá citar el motivo del arresto antes de leer los derechos al sujeto.
 
@@ -31,8 +34,20 @@
 
 **Artículo 14.** Todo detenido que ingrese al calabozo, ya sea en calidad de detenido o retenido, deberá ser cacheado obligatoriamente. Se le retirará cualquier arma letal y/o blanca utilizando el comando `/me` de forma adecuada.
 
-* **Ejemplo:**
-  * /me cachea...
-  * /me le retira armas, municiones y accesorios, ante negación se guarda en su sector.
+!!! example "Ejemplo de Procedimiento"
+    * `/me cachea...`
+    * `/me le retira armas, municiones y accesorios, ante negación se guarda en su sector.`
 
 **Artículo 15.** Oficiales desde el rango **X**, en adelante, si deciden encubrir a sus compañeros, recibirán FK/despido definitivo.
+
+**Artículo 16.** En el caso de que un Oficial se encuentre bajo investigación de Asuntos Internos y debido a que "ha jurado proteger y servir a Los Santos", estará obligado a aceptar los siguientes puntos:
+
+* No tener derecho a guardar silencio, puesto que el rige policía y servirá en su contra como un tribunal estatal de justicia.
+* Rige el código de responder cualquiera de las preguntas realizadas por los investigadores, será despedido de forma inmediata.
+* No podrá ejercer como policía mientras que la investigación siga en curso y ya resolución sea en contra de su persona.
+* Es importando destacar que, al firmar el certificado de ingreso al Departamento de Policía de San Andreas (SAPD) y recibir nuestras armas, Grupos de Cadete, equipamiento etcétera, V.S. se somete estrictamente a las ofertas y su acatamiento obligatorio para el oficial.
+* Notas investigativas en las dirigidas al "SAPD" por Dirección del Departamento de Policía de San Andreas (SAPD). En casos especiales, las investigaciones podrán ser destinadas a otros divisiones, pero con la autorización expresa de una directiva o la de inspectores.
+
+**Artículo 17.** Todo persona ajena a SAPD tiene prohibido acceder a las instalaciones de de policía de cualquiera de las comisarías. Únicamente podrán acceder aquellos que tengan razones suficientes y pase y ronda de presencia de un oficial de policía.
+
+**Artículo 18.** La información de todos los oficiales de la SAPD es confidencial, no podrá ser filtrada y...
