@@ -23,6 +23,11 @@ theme:
     - search.suggest
     - search.highlight
 
+# Extensiones para habilitar los recuadros de colores y avisos
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+
 # Estructura del menú lateral
 nav:
   - 1. INTRODUCCIÓN:
