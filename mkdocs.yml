@@ -4,7 +4,7 @@ site_url: https://normativa-lspd-infinity-rp.github.io/normativa-lspd/
 theme:
   name: material
   palette:
-    # Modo oscuro activado por defecto
+    # Modo oscuro oñemoĩva por defecto
     - scheme: slate
       primary: indigo
       accent: indigo
