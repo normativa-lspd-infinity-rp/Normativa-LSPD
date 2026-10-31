@@ -1,0 +1,32 @@
+site_name: Normativa LSPD
+site_url: https://Pac0Zera.github.io/normativa-lspd/
+
+theme:
+  name: material
+  palette:
+    # Modo oscuro activado por defecto
+    - scheme: slate
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/brightness-4
+        name: Cambiar a modo claro
+    - scheme: default
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/brightness-7
+        name: Cambiar a modo oscuro
+  features:
+    - navigation.sections
+    - navigation.expand
+    - search.suggest
+    - search.highlight
+
+# Estructura del menú lateral
+nav:
+  - 1. INTRODUCCIÓN:
+      - 1.1 Misión y Lema: index.md
+      - 1.2 Autoridad y Jurisdicción: introduccion/autoridad.md
+  - 2. ORGANIZACIÓN INSTITUCIONAL:
+      - 2.1 Artículos: organizacion/articulos.md
