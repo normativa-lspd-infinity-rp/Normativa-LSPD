@@ -6,44 +6,46 @@ Las personas que cometen delitos deben ir a prisión sin excepciones **(excepto 
 
 ## ⏱️ ¿Cuánto tiempo de prisión debo dar?
 
-* **Delitos Menores:** 5 minutos de prisión.
-* **Delitos Medios:** 10 minutos de prisión.
-* **Delitos Graves:** 15 minutos de prisión.
+- **Delitos Menores:** 5 minutos de prisión.
+- **Delitos Medios:** 10 minutos de prisión.
+- **Delitos Graves:** 15 minutos de prisión.
+- **Límite Máximo de Condena:** La condena acumulada será de **35 minutos como máximo**.
+
+!!! info "Consideración Nocturna (A partir de las 00:00)"
+    Para procedimientos realizados **después de las 00:00**, se deberá tener consideración aplicando una reducción en las horas o tiempo de prisión estipulado, adaptándolo al horario nocturno.
 
 !!! danger "Respeto a Multas y Meses"
-    Siempre deberá respetarse la cantidad de meses estipulada en la multa correspondiente.
+    Siempre deberá respetarse la cantidad de meses estipulada en la multa correspondiente, sin superar el límite máximo de condena establecido.
 
 ---
 
 ## ⛔ Protocolo sobre Reducción de Condenas
 
-Queda estrictamente prohibida la baja o reducción de condenas. El incumplimiento de esta norma se sancionará de la siguiente manera:
+Queda estrictamente prohibida la baja o reducción injustificada de condenas. El incumplimiento de esta norma se sancionará de la siguiente manera:
 
-* **Primera infracción:** Sanción administrativa severa (según el reglamento interno de la facción).
-* **Segunda infracción:** El oficial será considerado **Corrupto**, lo que conlleva la **Desvinculación inmediata** de la fuerza y el respectivo **CK Policial**.
+- **Primera infracción:** Sanción administrativa severa (según el reglamento interno de la facción).
+- **Segunda infracción:** El oficial será considerado **Corrupto**, lo que conlleva la **Desvinculación inmediata** de la fuerza y el respectivo **CK Policial**.
 
 ---
 
 ## 📝 Colocación de Multas
 
-Con el propósito de unificar los criterios de notificación de infracciones y evitar la duplicidad de sanciones por un mismo hecho, se establece la siguiente metodología para la confección e imposición de multas:
+Con el propósito de unificar los criterios de notificación de infracciones y evitar abusos o acumulación excesiva, se establece una **norma estricta de límites de multas**:
 
-### Principio de Sanción Única (Norma General)
-En todo procedimiento operativo, se aplicará únicamente la **multa de mayor valor económico** de entre todas las infracciones cometidas por el ciudadano durante el hecho.
+!!! danger "Límite Máximo de Multas por Detenido"
+    Se podrán aplicar **un máximo de 2 multas por detenido** en total por procedimiento.
 
-!!! danger "Prohibición de Suma de Cargos y Excepción"
-    Queda estrictamente prohibida la suma sistemática de múltiples cargos generales en un mismo procedimiento.
+### Principio de Sanción y Excepciones
+En todo procedimiento operativo, se priorizará la aplicación de las multas más graves o de mayor valor económico dentro del límite permitido de 2 multas.
 
-    **Excepción por Faltas Contra la Autoridad:**  
-    Las multas referidas a: *Agresión física a Oficiales, insultos, obstrucción a la justicia, amenazas a oficiales, etc.* **NO** quedan absorbidas por la multa principal. 
-    
-    Estos constituyen los únicos casos excepcionales que pueden acumularse y labrarse de forma conjunta con cualquier otro cargo principal (por ejemplo: *Robo a Fleeca + Insultos a oficiales*).
+**Excepción por Faltas Contra la Autoridad:**  
+Las multas referidas a *Agresión física a Oficiales, insultos, obstrucción a la justicia, amenazas a oficiales, etc.* entran dentro de este criterio prioritario si se requiere sancionar la conducta hostil junto al delito principal, respetando siempre el tope máximo de 2 multas en total.
 
 ### Robos a Establecimientos
-Cuando la intervención tenga origen en la comisión de un delito dentro de un establecimiento (comercios, bancos, joyería, etc.), la sanción a aplicar corresponderá exclusivamente a la multa tipificada para dicho establecimiento, sin posibilidad de agregar multas secundarias, salvo la excepción contemplada por agresión o faltas de respeto al personal actuante.
+Cuando la intervención tenga origen en la comisión de un delito dentro de un establecimiento (comercios, bancos, joyería, etc.), la sanción a aplicar corresponderá exclusivamente a la multa tipificada para dicho establecimiento, pudiendo sumarse como máximo una segunda multa únicamente en caso de agresión o faltas graves al personal actuante.
 
 ### Procedimientos en Zonas Rojas
-En operativos o intervenciones desarrolladas dentro de Zona Roja, únicamente se adjuntará la multa específica estipulada para dicho perímetro, manteniéndose sin excepción la salvedad respecto a las agresiones o insultos a oficiales.
+En operativos o intervenciones desarrolladas dentro de Zona Roja, se aplicará la multa específica estipulada para dicho perímetro, contemplando la misma norma del límite de multas permitidas por procedimiento.
 
 ---
 
