@@ -14,12 +14,6 @@
 
 **Artículo 7.** Si se realiza una denuncia contra un miembro de SAPD, independientemente de su distrito o rango, dicho oficial será suspendido de empleo y sueldo hasta que la investigación correspondiente haya finalizado.
 
-!!! info "Reincidencia de los hechos"
-    Se estima de que si el oficial reincide en los hechos denunciados, se aplicarán las sanciones correspondientes, ya sea desde el baneo definitivo del cuerpo policial.
-
-!!! warning "Resguardo de las normas y contratos diferentes"
-    Con otras rangos y/o normas u órdenes recurrentes que impliquen un contrato delictivo, se llevará a cabo una investigación interna del sujeto. Con base a los resultados de dicha investigación, se determinará si el oficial será continuo en la SAPD o si corresponderá aplicar sanciones a su remuneración.
-
 **Artículo 8.** Se deberá citar el motivo del arresto antes de leer los derechos al sujeto.
 
 **Artículo 9.** Se deberá leer los derechos al sujeto detenido siempre antes de entrar a la Comisaría.
@@ -32,12 +26,7 @@
 
 **Artículo 13.** Siempre, bajo cualquier circunstancia, se deberá de mantener el respeto mutuo entre departamentos de servicio público, ya sean del estado o de una empresa privada.
 
-**Artículo 14.** Todo detenido que ingrese al calabozo, ya sea en calidad de detenido o retenido, deberá ser cacheado obligatoriamente. Se le retirará cualquier arma letal y/o blanca utilizando el comando `/me` de forma adecuada.
-
-!!! example "Ejemplo de Procedimiento"
-    * `/me cachea...`
-    * `/me le retira armas, municiones y accesorios, ante negación se guarda en su sector.`
-
+**Artículo 14.** Todo detenido que ingrese al calabozo, ya sea en calidad de detenido o retenido, deberá ser cacheado obligatoriamente. Se le retirará cualquier arma letal y/o blanca.
 **Artículo 15.** Oficiales desde el rango **X**, en adelante, si deciden encubrir a sus compañeros, recibirán FK/despido definitivo.
 
 **Artículo 16.** Toda persona ajena a SAPD tiene prohibido acceder a las instalaciones de policía de cualquiera de las comisarías. Únicamente podrán acceder aquellos que tengan razones suficientes y con la presencia de un oficial de policía.
