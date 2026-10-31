@@ -26,11 +26,3 @@ La estructura jerárquica de la LSPD está dividida en niveles de responsabilida
 | <mark style="background-color: #0369a1; color: white; padding: 4px 8px; border-radius: 4px; font-weight: bold;">PERSONAL OPERATIVO</mark> | **Oficial III** | Oficial veterano. Lidera situaciones de riesgo medio y sirve como mentor de unidades júniores. |
 | <mark style="background-color: #0369a1; color: white; padding: 4px 8px; border-radius: 4px; font-weight: bold;">PERSONAL OPERATIVO</mark> | **Oficial II** | Oficial capacitado. Lidera patrullajes individuales/binomios e instruye a personal menor. |
 | <mark style="background-color: #0369a1; color: white; padding: 4px 8px; border-radius: 4px; font-weight: bold;">PERSONAL OPERATIVO</mark> | **Oficial I** | Graduado de academia. Atiende patrullajes básicos y desarrolla experiencia en campo. |
-| <mark style="background-color: #4b5563; color: white; padding: 4px 8px; border-radius: 4px; font-weight: bold;">EN FORMACIÓN</mark> | **Cadete** | En período de formación y prueba. Patrulla únicamente acompañado por oficiales autorizados. |
-
----
-
-!!! danger "Advertencia sobre Cadetes en Patrullaje"
-    En caso de que un **Cadete** se encuentre patrullando solo, es obligación de Sargentos, Tenientes y Capitanes patrullar con este. 
-    
-    De no cumplirse esta disposición, se aplicará sanción, ya que los sargentos son mandos y deben dar el ejemplo. En caso contrario, el encargado de Alto Mando aplicará **sanciones graves**.
