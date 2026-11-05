@@ -1,0 +1,9 @@
+/* Fuerza a que todas las sublistas del menú lateral aparezcan abiertas por defecto */
+.md-nav__list .md-nav__list {
+  display: block !important;
+}
+
+/* Oculta las flechas o iconos desplegables que ya no son necesarios al estar todo abierto */
+.md-nav__item--nested > .md-nav__link > .md-nav__icon {
+  display: none;
+}
