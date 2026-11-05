@@ -19,7 +19,8 @@ theme:
         name: Cambiar a modo oscuro
   features:
     - navigation.sections
-    - navigation.expand
+    # - navigation.expand  <-- ELIMINADO para evitar que el menú colapse la vista en móviles
+    - navigation.tracking
     - search.suggest
     - search.highlight
 
