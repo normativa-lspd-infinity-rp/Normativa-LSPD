@@ -1,6 +1,5 @@
 # 6.1 High Speed Interceptor Unit [HSIU]
 
-> [!NOTE]
 > **Directiva Operativa:** La unidad HSIU está destinada exclusivamente a operaciones de alta velocidad e interceptación avanzada. El incumplimiento de este reglamento conlleva sanciones administrativas inmediatas.
 
 ---
@@ -60,7 +59,7 @@ La disponibilidad en servicio activo y el despliegue en persecución están estr
 
 ---
 
-> [!CAUTION]
-> **RESTRICCIONES CRÍTICAS DE ALTÍSIMA GRAVEDAD**
-> * ⛔ **Cero tolerancia a modificaciones:** Alterar la potencia o componentes mecánicos del vehículo resultará en sanción directa.
-> * ⛔ **Ingreso a ZR y Transporte No Autorizado:** Entrar a Zonas Rojas o subir personas ajenas a la institución son consideradas faltas gravísimas que conllevan la **expulsión e inhabilitación inmediata** de la rama.
+!!! danger "Restricciones Críticas de Altísima Gravedad"
+
+    * **Cero tolerancia a modificaciones:** Alterar la potencia o componentes mecánicos del vehículo resultará en sanción directa.
+    * **Ingreso a ZR y Transporte No Autorizado:** Entrar a Zonas Rojas o subir personas ajenas a la institución son consideradas faltas gravísimas que conllevan la **expulsión e inhabilitación inmediata** de la rama.
