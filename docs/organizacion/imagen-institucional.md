@@ -1,19 +1,31 @@
-# 2.2 Imagen Institucional
+# 2.2 Imagen Institucional y Apariencia
 
-- **Maquillaje:** Los oficiales podrán usar maquillaje de forma adecuada, sin exageraciones. Cualquier uso inapropiado será sancionado. No aplica a maquillajes excesivos. 
-- **Accesorios adicionales:** Se podrá hacer uso de accesorios adicionales (Gorros) siempre y cuando estos sean negros, no sean trolls, y no perjudiquen la imagen del oficial. 
+!!! note "Estándar de Presentación"
+    La imagen del **Los Santos Police Department (LSPD)** refleja el profesionalismo y la seriedad de la institución ante la ciudadanía. Cuidar la apariencia personal y el uniforme es un deber ineludible de cada integrante del cuerpo policial.
 
-!!! warning "Aviso importante"
-    El incumplimiento de las pautas de uso de accesorios será notificado al oficial. De reincidir, se aplicarán las sanciones correspondientes según el reglamento.
+---
 
-- **Máscaras:** El uso de máscaras no está permitido, salvo que se cuente con un permiso justificado por la Dirección SAPD. Cualquier oficial que utilice una máscara sin autorización será sancionado.
-- **Tatuajes:**
-    - Cualquier oficial con tatuajes visibles en rostro o cuello será sancionado, ya que no son compatibles con la imagen profesional del SAPD.
-    - A partir del rango de **Oficial I**, se permiten tatuajes en brazos u otras zonas visibles, siempre que no excedan límites razonables y no comprometan la representación profesional del oficial. 
-    - El exceso de tatuajes podrá derivar en advertencia o sanción.
+## 🎭 Estética, Maquillaje y Complementos
 
-!!! danger "Restricción de Tatuajes"
-    Queda estrictamente prohibido cualquier tipo de tatuaje en el área del rostro y cuello. En las extremidades superiores, se permitirá como máximo un (1) blackout en un solo brazo.
+* **Maquillaje:** Se permite el uso moderado y discreto de maquillaje. Quedan excluidos los estilos extravagantes, exagerados o que desentonen con la sobriedad del uniforme.
+* **Gorros y Accesorios:** El uso de gorros o complementos similares solo está permitido si son de color **negro**, guardan absoluta compostura (evitando elementos de mal gusto o *troll*) y no afectan la formalidad del oficial.
 
-- **Rango de Dirección SAPD:** Podrán vestir su uniforme reglamentario, camisa institucional o ropa de civil, según lo consideren apropiado para la ocasión.
-- **Rango de Capitanes y Comandante:** Podrán usar su uniforme o camisas seleccionadas por los Directores, siempre portando la placa de identificación de forma visible.
+!!! warning "Aviso Disciplinario sobre Accesorios"
+    Cualquier desviación en el uso de complementos no autorizados será notificada de inmediato. La reincidencia acarreará las sanciones disciplinarias estipuladas en el régimen interno.
+
+* **Prohibición de Máscaras:** Está terminantemente prohibido cubrir el rostro con máscaras u objetos similares, salvo que medie una autorización formal y justificada emitida por la Dirección del LSPD.
+
+---
+
+## 🖋️ Normativa sobre Tatuajes
+
+* **Zonas Prohibidas:** Queda estrictamente prohibido portar tatuajes visibles en el área del **rostro y el cuello**, por comprometer la imagen formal del departamento.
+* **Tatuajes en Brazos y Extremidades:** A partir del rango de **Oficial I**, se autorizan tatuajes en los brazos, siempre que mantengan un aspecto moderado y profesional. 
+* **Límite de Cobertura (*Blackout*):** Como norma general para las extremidades superiores, se permite únicamente un (1) diseño de tipo *blackout* en un solo brazo. El exceso desmedido de tinta podrá ser motivo de llamada de atención o sanción administrativa.
+
+---
+
+## 👔 Libertad de Vestimenta por Rangos Jerárquicos
+
+* **Rango de Dirección LSPD:** Los miembros de la Dirección tienen la potestad de vestir su uniforme reglamentario, camisa institucional o indumentaria de civil, según lo requiera la naturaleza de sus funciones u ocasión.
+* **Rangos de Capitanes y Comandancia:** Podrán optar por el uniforme oficial o camisas autorizadas previamente por la Dirección, asegurando en todo momento que la **placa de identificación** se mantenga visible para los ciudadanos y compañeros.
