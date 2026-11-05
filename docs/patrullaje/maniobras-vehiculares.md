@@ -1,28 +1,26 @@
-# 5.4.1 Maniobras Vehiculares
+# 5.4.1 Maniobras y Tácticas Vehiculares
+
+## 🛑 Protocolo de Bloqueo — Código 100
+
+El **Código 100** es una táctica de contención coordinada en la que las unidades policiales posicionan los vehículos de forma estratégica para **interrumpir y bloquear el trayecto** del vehículo sospechoso, neutralizando su capacidad de fuga y forzando la detención.
+
+* Asimismo, comprende el uso de unidades o elementos de contención fijos en la calzada para cerrar el acceso a calles, avenidas o intersecciones clave.
 
 ---
 
-## 🚫 Código 100
+## ❌ Restricción Absoluta — Maniobra PIT
 
-El **Código 100** consiste en que las unidades policiales, mediante la colocación de vehículos en posiciones estratégicas, **bloquean el paso** del vehículo criminal para evitar que continúe su huida o lograr su detención. 
-
-A su vez, también aplica a la colocación de barreras o unidades en frente del vehículo con el fin de cerrar vías o calles estratégicas.
-
----
-
-## ❌ Código PIT (Prohibido)
-
-!!! danger "Maniobra Prohibida por Desync"
-    El uso del **Código PIT queda estrictamente prohibido** debido a los constantes problemas de *desync* (desincronización) entre los jugadores y el servidor, los cuales generan bugs visuales, colisiones injustas o daños no deseados.
+!!! danger "Maniobra Prohibida por Desincronización (Desync)"
+    Queda **estrictamente prohibido** el uso de la maniobra de impacto lateral (**Código PIT**) debido a las deficiencias técnicas de sincronización (*desync*) en el servidor, las cuales provocan fallos de colisión, tirones visuales y daños antirreglamentarios.
 
 ---
 
-## 🎯 Clave Robert
+## 🎯 Protocolo de Intervención — Clave Robert
 
-La **Clave Robert** consiste en efectuar disparos selectivos a las ruedas traseras del vehículo criminal con el fin de desestabilizarlo y lograr su detención obligatoria.
+La **Clave Robert** se define como el uso de fuego controlado y selectivo directo a los neumáticos traseros del vehículo en huida, con el propósito de restar tracción, desestabilizar la unidad y lograr la intercepción del sospechoso.
 
-* **Requisito de seguridad:** Debe ejecutarse únicamente en zonas de bajo tránsito peatonal y vehicular para proteger a la ciudadanía.
-* **Escalación de fuerza:** La Clave Robert será considerada siempre **la última medida a tomar** dentro de una persecución.
+* **Criterio de Entorno Seguro:** Su ejecución exige un análisis riguroso de la zona, limitándose a espacios despejados con nulo o muy bajo flujo peatonal y vehicular para salvaguardar la integridad civil.
+* **Carácter Excepcional:** La aplicación de la Clave Robert constituye siempre **el último recurso táctico** dentro del protocolo de persecución.
 
-!!! danger "Último Recurso Operativo"
-    La Clave Robert solo se autorizará cuando las maniobras previas hayan fallado o las condiciones del entorno requieran neutralizar de inmediato el vehículo en fuga.
+!!! danger "Última Instancia Operativa"
+    Esta maniobra solo podrá recibir autorización cuando las alternativas previas de contención hayan fracasado o el nivel de riesgo de la persecución exija la neutralización vehicular inmediata.
