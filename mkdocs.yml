@@ -19,10 +19,13 @@ theme:
         name: Cambiar a modo oscuro
   features:
     - navigation.sections
-    # - navigation.expand  <-- ELIMINADO para evitar que el menú colapse la vista en móviles
     - navigation.tracking
     - search.suggest
     - search.highlight
+
+# Añadimos esto para inyectar CSS que mantenga las listas desplegadas en móviles
+extra_css:
+  - stylesheets/extra.css
 
 # Extensiones para habilitar recuadros de colores, avisos y pestañas (tabs)
 markdown_extensions:
