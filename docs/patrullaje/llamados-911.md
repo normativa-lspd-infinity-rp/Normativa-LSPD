@@ -1,34 +1,52 @@
-# 5.3 Llamados al 911
+# 5.3 Gestión de Avisos y Llamados de Emergencia (911)
 
-Los civiles deben enviar llamadas (**entornos**) antes de hacer un acto ilícito. Estas llamadas deben describir su forma de vestir, las armas que portan, los vehículos de huida y los detalles de la última vez que fueron vistos.
+!!! note "Entornos e Informes Civiles"
+    Los ciudadanos deben emitir las alertas de entorno correspondientes previo a la ejecución de cualquier acto ilícito. Dichas notificaciones deben especificar de manera detallada la indumentaria de los involucrados, armamento visible, vehículos implicados para la fuga y el último punto de avistamiento.
 
 ---
 
-## 🚔 Procedimiento Operativo Policial
+## 🚔 Protocolo de Respuesta y Despliegue Operativo
 
-* **Notificación a Mando:** Se debe informar al MANDO y unidades en servicio sobre la asistencia a cualquier llamado.
-* **Uso obligatorio de luces y sonido:** Cuando un oficial atienda un llamado por obligación, **debe ir con las balizas encendidas y con sonido en todo momento.** En caso de que se desplace a alta velocidad por una emergencia, también deberá mantener las balizas y el sonido activos. De no hacerlo, se aplicará una **sanción**.
-* **Marcado de ubicación:** El copiloto (**compañero de patrulla**) debe marcar obligatoriamente la ubicación de la alerta en el mapa.
-* **Distancia prudente:** Al llegar al lugar, la policía debe tomar **una distancia considerable** del **asaltante o del acto ilícito**.
-* **Protocolo en asaltos:** Deben analizar la situación. **Si es un asalto, deben esperar a que el delincuente termine el mismo para luego iniciar una persecución** pasiva, sin disparos, hasta que el delincuente ponga en grave peligro a la ciudadanía o abra fuego contra la Policía.
-* **Intervención inmediata:** En caso de tratarse de una pelea, riña, carreras ilegales o actos **que no representen un peligro directo para el entorno**, la unidad policial podrá intervenir de inmediato.
-* **Superioridad numérica:** Si existe un llamado que involucra a una cantidad específica de criminales, siempre debe acudir un número superior de oficiales. Por ejemplo, **si el llamado involucra a 8 criminales, deben acudir 9 oficiales** (esto no aplica a situaciones masivas donde se requieran múltiples unidades).
+* **Notificación de Unidad:** Es obligatorio comunicar al mando en servicio (H-50) y a la malla de frecuencia interna la asistencia de cualquier patrulla a una llamada de emergencia.
+* **Señales de Emergencia:** Al responder a una alerta de carácter urgente o desplazarse a alta velocidad, las unidades deberán mantener operativas tanto las **balizas luminosas como las sirenas acústicas** durante todo el trayecto. 
+* **Navegación y Marcaje:** Corresponde al copiloto de la unidad (o segundo efectivo) efectuar el marcaje cartográfico exacto de la alerta en el sistema de navegación.
+* **Distancia de Perímetro:** Al arribar a la escena, la unidad mantendrá una **distancia táctica de seguridad** respecto a los sospechosos o el foco del delito.
 
-!!! danger "Excepción Táctica para Divisiones Especiales"
-    Las divisiones tácticas pueden tomar la decisión de realizar redadas o interceptaciones a civiles **sin activar los sonidos o balizas** para llamar la atención, si así lo requiere la estrategia del operativo.
+!!! danger "Sanción por Desplazamiento Negligente"
+    Acudir a llamados de emergencia superando los límites de velocidad sin hacer uso de los sistemas luminosos y acústicos reglamentarios será motivo de sanción disciplinaria directa.
 
-!!! danger "Respuesta a Disparos contra Oficiales"
-    Si se recibe un llamado que indique disparos hacia oficiales, la SAPD podrá **iniciar fuego de inmediato** sin necesidad de esperar a que los criminales comiencen el tiroteo en el sitio, siempre que el entorno corresponda con la ubicación de la alerta.
+---
+
+## ⚖️ Pautas de Intervención según la Naturaleza del Incidente
+
+=== "🚨 Delitos Complejos y Atracos"
+    Ante reportes de robos o ilícitos en progreso, las patrullas deberán evaluar el entorno. Se aguardará a que los sospechosos concluyan la acción criminal para iniciar un seguimiento y persecución pasiva, **evitando el uso de fuego real** a menos que los delincuentes pongan en riesgo inminente la vida de terceros o disparen contra los efectivos.
+
+=== "🛑 Alteraciones al Orden Público"
+    En llamadas por riñas, desórdenes civiles, carreras clandestinas o eventos que no impliquen peligro letal inminente para la población, las unidades presentes están autorizadas a **intervenir de forma inmediata** para restablecer el orden.
+
+=== "📈 Proporción Numérica Táctica"
+    La respuesta policial ante un incidente reportado debe mantener superioridad táctica sobre el número de sospechosos notificados. *Ejemplo: Si la alerta especifica la presencia de 8 sospechosos, el contingente policial asignado debe ser de al menos 9 oficiales* (salvo en despliegues masivos o códigos de máxima prioridad).
+
+---
+
+## ⚠️ Protocolos de Excepción y Fuego Táctico
+
+!!! danger "Excepción Operativa para Divisiones Especiales"
+    Las unidades tácticas (como SWAT o divisiones de inteligencia) podrán efectuar aproximaciones o interceptaciones sin activar dispositivos luminosos ni acústicos, siempre que la planificación del operativo requiera mantener el factor sorpresa.
+
+!!! danger "Respuesta Ante Fuego Hostil Directo"
+    Si la alerta reporta disparos en curso contra el personal policial, el LSPD queda facultado para **repeler la agresión con armas de fuego** inmediatamente al posicionarse en el lugar, siempre que el entorno coincida con la ubicación de la alerta.
     
-    Asimismo, **deberán esperar 5 segundos** desde la llegada al llamado antes de abrir fuego (regla aplicable a ambos bandos).
+    > **Regla de Ventana Táctica:** Se deberá guardar un margen de **5 segundos de evaluación** tras arribar al sitio antes de entablar combate armado (aplicable a todas las partes).
 
 ---
 
-## 🏛️ Pauta de Permanencia en Comisaría y Despacho de Auxilio (LSPD)
+## 🏛️ Permanencia en Comisaría y Despacho de Auxilio
 
-* **Uso de la Comisaría:** Los oficiales de SAPD pueden permanecer en las instalaciones para desarrollar rol social (atención en recepción, papeleo, reuniones) o para un periodo breve de descanso tras finalizar una ronda de patrullaje.
-* **Obligatoriedad de Respuesta:** Si el agente se encuentra en servicio activo, la atención en la comisaría pasa a un segundo plano. Es **obligatorio** responder y acudir al aviso o llamada de emergencia a la brevedad.
-* **Excepción Fuera de Servicio:** Los agentes marcados como *10-6* no tienen la obligación de responder a llamados de rutina, salvo una orden o aviso *express* de máxima alerta general.
+* **Uso de Dependencias:** El personal del LSPD podrá permanecer en las instalaciones policiales únicamente para tareas administrativas, atención al público en recepción, confección de expedientes o periodos breves de reacondicionamiento tras finalizar un patrullaje.
+* **Prioridad del Servicio:** La permanencia en base es secundaria frente a la operatividad. Ante cualquier llamada de auxilio o aviso activo, todo oficial en servicio tiene la **obligación ineludible** de incorporarse al despacho inmediato.
+* **Estado Fuera de Servicio (10-6):** Los agentes marcados fuera de turno quedan exentos de atender avisos rutinarios, a excepción de una convocatoria de emergencia general declarada por la Jefatura.
 
-!!! danger "Restricción de Permanencia"
-    La norma de uso de comisaría **no aplica** en situaciones donde Central, el Alto Mando o la Jefatura ordenen que **todas las unidades realicen patrullaje activo**.
+!!! danger "Restricción de Permanencia por Alerta General"
+    El permiso de permanencia en comisaría quedará **suspendido automáticamente** si Central, la Jefatura o el Alto Mando disponen el despliegue general de todas las unidades a patrullaje activo en la ciudad.
