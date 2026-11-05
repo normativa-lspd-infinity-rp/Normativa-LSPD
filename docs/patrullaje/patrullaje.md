@@ -1,34 +1,41 @@
-# 5.2 Patrullaje
+# 5.2 Directrices y Protocolos de Patrullaje
 
-## 📋 Asignaciones
-
-Al momento de entrar en servicio, el oficial deberá ingresar al canal **ESPERANDO ASIGNACIÓN**, donde el mando H-50 será el encargado de asignarle su puesto correspondiente.
-
-!!! info "Reasignación por parte de Central"
-    El Central podrá reasignar a cualquier oficial si lo considera necesario, siempre que exista un motivo justificado, como por ejemplo:
-    * Falta de seriedad o profesionalismo.
-    * Quejas recibidas.
-    * Necesidad organizativa o táctica (robos, TAC, operativos, etc.).
-
-!!! danger "Prioridad de las Decisiones de Mando"
-    La decisión del mando siempre tendrá prioridad, y deberá basarse en el orden y funcionamiento correcto del departamento.
+!!! note "Asignación y Protocolo de Ingreso"
+    Al incorporarse al servicio activo, todo oficial tiene la obligación de presentarse en el canal de **ESPERANDO ASIGNACIÓN**. Será el mando a cargo (H-50) quien determine y asigne el puesto operativo correspondiente.
 
 ---
 
-## 🚨 Normativa de Patrullaje
+## 📋 Reasignación de Unidades por Central
 
-* **Respeto a las leyes de tránsito:** Todos los oficiales deberán respetar las normas de tránsito durante el patrullaje. **Solo podrán exceder los límites de velocidad** cuando acudan a un llamado o se trate de una situación de **urgencia**. 
-* En estos casos, deberán encender las **balizas** y el **sonido** correspondiente.
+El personal de Central cuenta con la facultad de reasignar a cualquier oficial de su puesto actual si concurren motivos justificados, tales como:
 
-!!! danger "Sanción por Mal Uso de Vehículos o Velocidad"
-    Si un oficial es sorprendido **excediendo la velocidad sin justificación**, **utilizando balizas o sirenas sin motivo válido** o haciendo **mal uso del vehículo policial**, será **sancionado** e incluso podrá ser **retirado del servicio** según la gravedad de la falta.
+* Falta de rigor, profesionalismo o compostura en servicio.
+* Recepción de quejas formales de ciudadanos u otras unidades.
+* Requerimientos logísticos, tácticos o de emergencia (atracos, códigos rojos, operativos especiales).
 
-!!! info "Asignación a Llamados"
-    **Mando será el encargado de asignar a oficiales a los llamados. Bajo ningún término estos podrán autoasignarse a llamados.**
+!!! danger "Primacía de la Orden de Mando"
+    Las disposiciones emitidas por la cadena de mando son de acatamiento obligatorio y prevalecen sobre cualquier preferencia personal, priorizando siempre la operatividad y el orden institucional.
 
-* **Atención a robos medianos y grandes:** En casos de alertas de robos medianos o grandes (joyerías, bancos, yate), los oficiales deberán **asisit con el traje respectivo para operaciones tácticas** correspondiente.
+---
 
-* **Responsabilidad sobre patrullas:** Cada oficial es responsable de mantener su patrulla **en perfecto estado y con el tanque de combustible lleno**.
+## 🚨 Normativa Dinámica de Patrullaje
 
-!!! danger "Vehículos Abandonados o Dañados"
-    Cualquier vehículo **abandonado**, **en malas condiciones** o **sin combustible** será motivo de sanción para el responsable.
+* **Cumplimiento Vial:** El personal policial debe observar las normas generales de tránsito durante sus labores de patrullaje rutinario. **El exceso de velocidad solo está permitido** en respuesta a códigos de urgencia o avisos activos.
+* **Uso de Luminosos y Sonoros:** En situaciones de emergencia que requieran prioridad de paso, es obligatorio activar simultáneamente las **balizas y las sirenas** reglamentarias.
+
+!!! danger "Sanciones por Uso Irregular de Unidades"
+    Conducir a exceso de velocidad sin causa justificada, activar las sirenas de forma injustificada o realizar un uso negligente de los vehículos oficiales acarreará **sanciones disciplinarias severas**, pudiendo derivar en la **suspensión temporal o retiro del servicio** según la gravedad.
+
+!!! info "Prohibición de Autoasignación a Incidentes"
+    La asignación de unidades a los diferentes avisos o llamadas de emergencia recae exclusivamente en el mando operativo. **Queda terminantemente prohibido que los oficiales se autoasignen** por iniciativa propia sin autorización previa.
+
+* **Atención a Eventos y Atracos:** Ante alertas de robos medianos o de gran envergadura (como joyerías, entidades bancarias o yates), los oficiales intervinientes tienen el deber de **acudir portando la indumentaria táctica correspondiente** para la operación.
+
+---
+
+## 🚘 Cuidado y Responsabilidad del Parque Móvil
+
+Cada oficial es el único custodio y responsable directo de mantener su vehículo asignado **en óptimas condiciones mecánicas y con el depósito de combustible lleno**.
+
+!!! danger "Vehículos Siniestrados o Abandonados"
+    Dejar patrullas abandonadas en la vía pública, en estado de deterioro severo o sin combustible sin justificación operativa será motivo de **sanción directa** para el último usuario registrado.
