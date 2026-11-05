@@ -2,23 +2,23 @@
 
 ---
 
-## ⚖️ Terminar vs. Cortar Negociaciones
+## ⚖️ Diferenciación: Conclusión vs. Ruptura del Diálogo
 
-* **Terminar Negociación:** Significa que ambas partes llegaron a un acuerdo formal. Este acuerdo debe respetarse estrictamente hasta que se rompa alguna causal pactada.
-* **Cortar Negociación:** Ocurre cuando no se logra un acuerdo o una de las partes decide romper el diálogo de forma unilateral. En este caso, **todo lo conversado pierde validez**. 
+* **Término de la Negociación:** Implica que el LSPD y el bando infractor alcanzaron un consenso formal. Los términos estipulados en el acuerdo deben cumplirse rigurosamente por ambas partes hasta que se produzca una infracción o ruptura de las causales pactadas.
+* **Corte de la Negociación:** Se presenta cuando las partes no logran un acuerdo mutuo o cuando una de ellas decide interrumpir el proceso de diálogo de manera unilateral. Ante este escenario, **todos los acuerdos previos pierden validez jurídica y táctica**.
 
-!!! danger "Plazo Obligatorio de Preparación"
-    Una vez cortada la negociación, se debe otorgar un **plazo obligatorio de 20 segundos de preparación** antes de que cualquier bando pueda abrir fuego.
+!!! danger "Margen Temporal Obligatorio de Preparación"
+    Una vez decretado el corte de la negociación, se concederá un **plazo perentorio de 20 segundos de preparación** antes de que cualquier bando esté facultado para iniciar fuego o realizar movimientos tácticos de asalto.
 
 ---
 
-## ⚡ Cortes Directos de Negociación
+## ⚡ Supuestos de Corte Directo de Negociación
 
-Los delincuentes podrán generar un **corte directo de negociación** (sin necesidad de agotar el sistema gradual de advertencias 1/3 → 2/3 → 3/3) cuando realicen alguna de las siguientes acciones:
+El bando infractor se encuentra habilitado para generar un **corte directo de la negociación** de forma inmediata, sin necesidad de agotar el sistema gradual de advertencias progresivas (es decir, prescindiendo de la escala 1/3 → 2/3 → 3/3), bajo las siguientes circunstancias exclusivas:
 
-* Disparar dentro del recinto.
-* Herir al rehén.
-* Abatir al rehén.
+* Abrir fuego dentro del perímetro del establecimiento.
+* Causar heridas físicas al rehén en custodia.
+* Abatir o ejecutar al rehén.
 
-!!! warning "Protocolo de Notificación LSPD"
-    En estos casos, LSPD deberá informar mediante el comando `an` la **acción exacta realizada por los delincuentes** y el motivo correspondiente del corte de forma inmediata.
+!!! warning "Obligación de Notificación Oficial del LSPD"
+    Ante un corte directo de negociación, el personal del LSPD tiene el deber ineludible de notificar a través de los canales de comunicación oficiales la **descripción exacta de la infracción cometida por los sospechosos** y la justificación formal del corte de manera inmediata.
