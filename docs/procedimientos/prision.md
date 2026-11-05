@@ -1,68 +1,64 @@
-# 4.2 Prisión y Carceleta
+# 4.2 Prisión, Condenas y Protocolo de Ingreso
 
-Las personas que cometen delitos deben ir a prisión sin excepciones **(excepto por infracciones de tránsito)**.
-
----
-
-## ⏱️ ¿Cuánto tiempo de prisión debo dar?
-
-- **Delitos Menores:** 5 minutos de prisión.
-- **Delitos Medios:** 10 minutos de prisión.
-- **Delitos Graves:** 15 minutos de prisión.
-- **Límite Máximo de Condena:** La condena acumulada será de **35 minutos como máximo**.
-
-!!! info "Consideración Nocturna (A partir de las 00:00)"
-    Para procedimientos realizados **después de las 00:00**, se deberá tener consideración aplicando una reducción en las horas o tiempo de prisión estipulado, adaptándolo al horario nocturno.
-
-!!! danger "Respeto a Multas y Meses"
-    Siempre deberá respetarse la cantidad de meses estipulada en la multa correspondiente, sin superar el límite máximo de condena establecido.
+!!! note "Disposición de Privación de Libertad"
+    Toda persona que infrinja la ley y cometa delitos tipificados deberá ser derivada a prisión sin excepciones, a la única y exclusiva **bajada de infracciones de tránsito puramente viales**.
 
 ---
 
-## ⛔ Protocolo sobre Reducción de Condenas
+## ⏱️ Baremo de Tiempos de Condena
 
-Queda estrictamente prohibida la baja o reducción injustificada de condenas. El incumplimiento de esta norma se sancionará de la siguiente manera:
+* **Delitos Menores:** 5 minutos de privación de libertad.
+* **Delitos Medios:** 10 minutos de privación de libertad.
+* **Delitos Graves:** 15 minutos de privación de libertad.
+* **Tope Máximo Acumulable:** La condena total a aplicar por procedimiento no podrá superar bajo ningún concepto los **35 minutos**.
 
-- **Primera infracción:** Sanción administrativa severa (según el reglamento interno de la facción).
-- **Segunda infracción:** El oficial será considerado **Corrupto**, lo que conlleva la **Desvinculación inmediata** de la fuerza y el respectivo **CK Policial**.
+!!! info "Consideración de Turno Nocturno (A partir de las 00:00)"
+    Para procedimientos llevados a cabo **después de las 00:00 horas**, los oficiales aplicarán una reducción proporcional en los tiempos de reclusión, adaptando la condena a la dinámica de horario nocturno.
 
----
-
-## 📝 Colocación de Multas
-
-Con el propósito de unificar los criterios de notificación de infracciones y evitar abusos o acumulación excesiva, se establece una **norma estricta de límites de multas**:
-
-!!! danger "Límite Máximo de Multas por Detenido"
-    Se podrán aplicar **un máximo de 2 multas por detenido** en total por procedimiento.
-
-### Principio de Sanción y Excepciones
-En todo procedimiento operativo, se priorizará la aplicación de las multas más graves o de mayor valor económico dentro del límite permitido de 2 multas.
-
-**Excepción por Faltas Contra la Autoridad:**  
-Las multas referidas a *Agresión física a Oficiales, insultos, obstrucción a la justicia, amenazas a oficiales, etc.* entran dentro de este criterio prioritario si se requiere sancionar la conducta hostil junto al delito principal, respetando siempre el tope máximo de 2 multas en total.
-
-### Robos a Establecimientos
-Cuando la intervención tenga origen en la comisión de un delito dentro de un establecimiento (comercios, bancos, joyería, etc.), la sanción a aplicar corresponderá exclusivamente a la multa tipificada para dicho establecimiento, pudiendo sumarse como máximo una segunda multa únicamente en caso de agresión o faltas graves al personal actuante.
-
-### Procedimientos en Zonas Rojas
-En operativos o intervenciones desarrolladas dentro de Zona Roja, se aplicará la multa específica estipulada para dicho perímetro, contemplando la misma norma del límite de multas permitidas por procedimiento.
+!!! danger "Coherencia entre Multas y Tiempo"
+    El cálculo del tiempo de celda debe guardar estricta relación con la gravedad de las multas impuestas, respetando siempre el límite máximo de condena establecido.
 
 ---
 
-## 📸 Protocolo de Actualización de Ficha Fotográfica (MDT)
+## ⛔ Régimen Sancionatorio por Manipulación de Condenas
 
-Se establece como procedimiento obligatorio para todo el personal policial la verificación y actualización de la imagen de perfil de los ciudadanos al momento de su procesamiento en el sistema MDT.
+Queda tajantemente prohibida la alteración, reducción arbitraria o condonación injustificada de penas privativas de libertad. El incumplimiento de esta norma acarreará las siguientes medidas disciplinarias:
 
-### Directivas del procedimiento:
-* **Inspección de apariencia:** Antes de finalizar el procesamiento de un detenido, el oficial a cargo deberá comparar la apariencia física actual del sujeto con la fotografía registrada en su ficha del MDT.
-* **Criterios de actualización:** Si el ciudadano presenta cualquier modificación visible en su aspecto respecto al registro previo, se le deberá tomar y subir una nueva fotografía de manera inmediata. Esto incluye, entre otros:
-    * Cambios en el color, corte o estilo de cabello.
-    * Aclarado, remoción o incorporación de nuevos tatuajes (especialmente en rostro, cuello o zonas visibles).
-    * Cambios drásticos en vello facial, cicatrices o rasgos estéticos relevantes.
-* **Ejemplo de aplicación:** Si un individuo fue procesado el día lunes luciendo cabello rojo y tatuajes faciales, y vuelve a ser detenido el miércoles con el cabello teñido de verde y los tatuajes removidos, el oficial interviniente tendrá la obligación de actualizar la foto de su perfil en el sistema antes de dar por cerrado el caso.
+* **Primera Infracción:** Sanción administrativa de carácter severo conforme al reglamento interno de la institución.
+* **Reincidencia (Segunda Infracción):** El agente será catalogado de inmediato como **oficial corrupto**, procediendo a su **desvinculación total** del departamento y la aplicación del respectivo **CK Policial**.
 
-!!! danger "Falta al Protocolo"
-    El mantenimiento de una base de datos visual precisa es fundamental para la identificación criminal. Omitir este paso se considerará una falta al protocolo de procesamiento.
+---
 
-!!! info "Identificación de Civiles sin DNI"
-    Si se identifica a un civil que no porta su DNI físico, **no se realizará el rol mediante `/do`** para determinar si lo posee. Sin embargo, el personal de la SAPD podrá utilizar el *script* correspondiente para verificar su identificación.
+## 📝 Normativa de Tasación de Multas
+
+Con el fin de estandarizar las sanciones económicas y evitar el abuso en la acumulación de cargos monetarios por procedimiento, se establece un límite estricto:
+
+!!! danger "Límite Absoluto de Sanciones"
+    Se permite aplicar un **máximo de 2 multas por detenido** en un mismo procedimiento.
+
+### Criterios de Aplicación y Excepciones
+Durante el procesamiento, se priorizará la imposición de las multas correspondientes a los delitos de mayor valor o gravedad dentro del tope de dos sanciones.
+
+* **Faltas de Respeto u Hostilidad:** Las sanciones por agresión física a agentes, insultos, amenazas u obstrucción a la justicia podrán añadirse prioritariamente al delito principal, siempre y cuando no se rebase el límite máximo de 2 multas en total.
+* **Atracos a Establecimientos:** Si la detención deriva de un asalto a comercios, bancos o joyerías, se aplicará primordialmente la multa específica del establecimiento, permitiéndose una segunda sanción únicamente en caso de agresiones directas al personal actuante.
+* **Intervenciones en Zonas de Riesgo:** En los procedimientos ejecutados dentro de perímetros catalogados como Zona Roja, se aplicará la tarifa tasada para dicha zona, respetando igualmente la norma del límite máximo de multas.
+
+---
+
+## 📸 Protocolo de Actualización de Ficha e Identificación en el MDT
+
+Es obligación ineludible de todo oficial verificar y mantener al día el registro fotográfico y los datos de identidad de los ciudadanos procesados en el sistema MDT.
+
+### Pautas del Procedimiento:
+* **Inspección Visual:** Antes de culminar el registro, el oficial contrastará la apariencia actual del individuo con la fotografía que figura en su expediente del MDT.
+* **Actualización Obligatoria:** Si el ciudadano presenta alteraciones perceptibles en su aspecto físico respecto al archivo anterior, se deberá capturar y subir una nueva fotografía de perfil de inmediato. Esto abarca:
+    * Modificaciones en tonalidad, corte o estilo del cabello.
+    * Incorporación, borrado o aclarado de tatuajes visibles (especialmente en rostro o cuello).
+    * Cambios notorios en vello facial, marcas o características estéticas distintivas.
+* **Ejemplo práctico:** Si un sujeto ingresó con cabello oscuro y tatuajes faciales, y reincide días después con el pelo teñido y la piel limpia de marcas en el rostro, el agente interviniente tiene el deber de actualizar la foto de perfil en el sistema antes de cerrar el expediente.
+
+!!! danger "Falta al Protocolo Documental"
+    La exactitud de la base de datos visual es vital para la seguridad y la investigación criminal. Omitir la actualización fotográfica constituirá una falta disciplinaria directa.
+
+!!! info "Verificación de Identidad sin Documento"
+    Si un ciudadano no porta su DNI físico consigo, **no se recurrirá a interpretaciones de rol mediante el comando `/do`** para comprobar su posesión. El personal del LSPD utilizará exclusivamente el *script* correspondiente del sistema para validar su identidad.
