@@ -1,69 +1,69 @@
-# 5.8 Negociaciones
+# 5.8 Protocolo de Negociaciones
 
-En situaciones donde la integridad física de las personas está en riesgo, el proceso de negociación debe ser estructurado, profesional y empático, priorizando siempre la seguridad de los rehenes.
+En escenarios donde la vida y la integridad física de las personas se encuentran expuestas, el proceso de diálogo y negociación debe desarrollarse con un enfoque estructurado, profesional y ecuánime, anteponiendo en todo momento la salvaguarda de los rehenes.
 
-La SAPD asignará un oficial especializado para liderar la comunicación con los criminales, estableciendo acuerdos claros y respetando las siguientes pautas:
-
----
-
-## 📋 Consideraciones Generales
-
-* Para evitar conflictos o toxicidad entre ambos bandos, se deberá mantener flexibilidad y profesionalismo durante las negociaciones.
-* **Proporcionalidad de rehenes:** Cada rehén podrá ser intercambiado únicamente por una solicitud; en el caso de los oficiales secuestrados, estos contarán como 2 solicitudes.
-* **Objetos permitidos en la negociación:** Pinchos, barreras y conos.
-* **Vehículos permitidos en la negociación:** Helicóptero o patrulla Interceptor.
-* Bajo ningún término se podrá negociar algo fuera de los límites y puntos establecidos dentro de la normativa.
-* La negociación se dará como efectiva y concluida una vez se haga entrega de los rehenes sanos y salvos. Esto aplica igualmente a casos en los que ambos bandos afirmen estar conformes con la negociación.
-* **Robos a establecimientos pequeños y medianos:** Bajo ningún término podrá negociarse opciones para tiroteos. En caso de ser así, el bando delictual deberá comunicar al bando legal que no están abiertos a negociar y que cortarán negociaciones. Será responsabilidad del bando delictual informar dicha elección, y del bando legal (SAPD) seguir el protocolo correspondiente a **corte de negociaciones**.
-* **Robos a establecimientos grandes:** El bando delictual podrá negociar opciones para tiroteo dentro del establecimiento; que inicien fuego no contará como un corte de negociaciones. No obstante, el bando legal (SAPD) deberá seguir el protocolo correspondiente de ingreso a la zona según lo estime conveniente, respetando lo negociado en todo momento.
-
-!!! danger "Límites de Seguridad y Coherencia"
-    La SAPD bajo ningún momento podrá aceptar negociaciones que impliquen afectar la integridad de los oficiales. Estas, al igual que cualquier negociación en general, deberán ser lógicas e igualitarias.
+El **LSPD** designará a un oficial especializado para asumir la interlocución con los infractores, estableciendo acuerdos claros bajo las siguientes directrices operativas:
 
 ---
 
-## 🤝 Opciones de Negociación
+## 📋 Pautas Generales y Consideraciones
+
+* **Criterio de Flexibilidad:** Se mantendrá una postura abierta y profesional para prevenir tensiones innecesarias o toxicidad entre ambas partes durante el transcurso de las negociaciones.
+* **Proporcionalidad de Rehenes:** Cada rehén liberado otorga el derecho a una (1) solicitud de intercambio; en el caso particular de oficiales secuestrados, cada efectivo computará por dos (2) solicitudes.
+* **Materiales de Negociación (Props):** Quedan autorizados exclusivamente para su intercambio o gestión los elementos de señalización perimetral, tales como **barreras y conos** (se excluyen de esta lista los dispositivos de inmovilización de vehículos).
+* **Parque Móvil en Negociación:** Los vehículos sujetos a negociación se limitan estrictamente a la unidad aérea o al vehículo patrulla *Interceptor*.
+* **Principio de Legalidad:** Está terminantemente prohibido acordar términos o condiciones que rebasen los límites y catálogos establecidos en esta normativa.
+* **Cierre de Negociación:** El proceso de diálogo se considerará formal y efectivamente concluido una vez que los rehenes sean entregados sanos y salvos, o bien cuando ambos bandos manifiesten conformidad expresa con los acuerdos.
+* **Atracos a Pequeños y Medianos Establecimientos:** No se contemplan opciones orientadas a la confrontación armada en este tipo de eventos. Si el bando infractor no está dispuesto a negociar bajo los términos habituales, deberá comunicar el cese de las conversaciones. Corresponderá a los delincuentes notificar dicha decisión y a las unidades del LSPD activar el protocolo de **corte de negociaciones**.
+* **Atracos a Grandes Establecimientos:** Los sospechosos podrán negociar condiciones específicas para un tiroteo planificado dentro del recinto; el inicio del intercambio armado en este supuesto no constituirá un corte de negociaciones. No obstante, el LSPD procederá con el ingreso táctico conforme a su estrategia operativa, respetando los acuerdos pactados.
+
+!!! danger "Límites de Seguridad Institucional"
+    El LSPD no validará ningún acuerdo que comprometa la integridad física o la seguridad de los agentes operativos. Las condiciones de intercambio deben mantener absoluta lógica e igualdad de criterio.
+
+---
+
+## 🤝 Opciones y Términos de Negociación
 
 ### Salida Limpia
-La facción legal (SAPD) no colocará conos, barreras ni objetos en las calles para obligar a los criminales a tomar un camino específico al iniciar la persecución.
+La facción policial se compromete a no desplegar conos, barreras u obstáculos físicos en la calzada con la intención de canalizar o restringir la ruta inicial de huida de los sospechosos al arrancar la persecución.
 
 ### Huida Limpia
-Al finalizar las negociaciones, la SAPD no podrá realizar maniobras vehiculares a los automóviles sospechosos hasta que estos rompan alguna causal o los términos negociados. 
+Al término de las negociaciones, las unidades del LSPD se abstendrán de ejecutar maniobras de persecución activa sobre los vehículos sospechosos, a menos que estos infrinjan alguna causal de peligro o incumplan los términos acordados.
 
-!!! danger "Sin Negociación de Huida Limpia"
-    Si los criminales **NO** negocian huida limpia, la policía podrá emplear únicamente:
-    * **Código PIT:** Colisión controlada en la parte trasera del vehículo sospechoso para hacerle perder el control *(Nota: Recordar que el PIT general se encuentra prohibido por desync, por lo que se ajustará a las directivas vigentes de maniobras o restricciones acordadas)*.
-    * **Código 100:** Colocación de barreras o cierres de vía (tapones) para detener el vehículo o bloquear el acceso a callejones y zonas de riesgo (puede realizarse igualmente con las patrullas).
+!!! danger "Ausencia de Negociación de Huida Limpia"
+    Si los infractores **no** pactan una huida limpia, las fuerzas del orden podrán emplear:
+    * **Código 100:** Posicionamiento táctico de patrullas o cierres perimetrales para interrumpir el avance del vehículo y bloquear accesos a zonas críticas o callejones.
+    * *(Nota: Se recuerda que el uso de la maniobra de impacto lateral o PIT se encuentra prohibido por problemas de sincronización, por lo que cualquier acción de detención vehicular se ajustará estrictamente a los bloqueos estipulados).*
 
-> **Nota:** Bajo ningún motivo se podrá activar la Clave ROBERT hasta que los criminales rompan causales o pongan en peligro directo a civiles, policías o vehículos.
+> **Nota:** Bajo ninguna circunstancia se podrá autorizar el uso de la Clave Robert a menos que los sospechosos rompan causales o expongan directamente la vida de civiles, policías o terceros.
 
-!!! danger "Lapso de Protección"
-    El bando criminal tendrá un lapso de **5 minutos de protección**, donde la SAPD no podrá realizar ningún tipo de maniobra vehicular que afecte la persecución. En caso de que el bando criminal rompa algún tipo de causal, esta regla quedará nula de inmediato.
+!!! danger "Margen de Protección Temporal"
+    El bando infractor dispondrá de un lapso de **5 minutos de protección**, durante el cual el LSPD no podrá realizar maniobras vehiculares obstructivas sobre la persecución. Si los sospechosos incurren en la violación de alguna causal, este periodo quedará anulado de inmediato.
 
 ### Integridad Vehicular
-Si los criminales negocian la integridad vehicular, la SAPD no podrá limitar los vehículos criminales bajo ningún término.
+Si se pacta la integridad vehicular, el LSPD no aplicará restricciones de rendimiento a los automóviles de la fuga.
 
-!!! danger "Sin Negociación de Integridad Vehicular"
-    En caso de que el bando criminal **NO** solicite o negocie la integridad vehicular, la SAPD tendrá total libertad de limitar el vehículo si así lo desea, estableciendo un **límite mínimo de 190 km/h**, el cual podrá negociarse o no a elección del oficial a cargo de la negociación principal.
+!!! danger "Inexistencia de Acuerdo de Integridad Vehicular"
+    De no solicitarse esta opción, el LSPD conservará la potestad absoluta de limitar el vehículo sospechoso, estableciendo un **tope mínimo de velocidad de 190 km/h**, sujeto o no a negociación por parte del oficial al mando del operativo.
 
-!!! warning "Exceso de Velocidad Limítrofe"
-    En caso de que se limite el vehículo y los criminales superen el límite de kilometraje establecido durante la negociación, será motivo **1/1 para corte de negociaciones**, y la LSPD podrá pichar ruedas de manera inmediata, siempre teniendo en cuenta la lógica de la situación.
+!!! warning "Exceso de Velocidad Pactada"
+    Si el vehículo se encuentra limitado por acuerdo y los sospechosos rebasan el kilometraje máximo establecido durante la negociación, se considerará una falta equivalente a **1/1 para el corte de negociaciones**, quedando el LSPD facultado para pinchar neumáticos de manera inmediata conforme a la lógica de la situación.
 
-### Segundos de Huida ("Misisipis")
-Los criminales podrán solicitar tiempo adicional para huir, de uno a tres segundos. Estos segundos no serán a elección de ninguno de los dos bandos; deberán ser roleados mediante `/dados` lanzados por el oficial negociador, determinando el tiempo según el resultado:
-* **1 a 4:** 1 segundo.
-* **5 a 8:** 2 segundos.
-* **9 a 12:** 3 segundos.
+### Segundos de Ventaja ("Misisipis")
+Los sospechosos podrán solicitar un tiempo adicional de ventaja en la arrancada, oscilando entre uno y tres segundos. Este margen no quedará a discreción de las partes, debiendo resolverse mediante el lanzamiento de dados virtuales (`/dados`) operados por el oficial negociador:
+* **1 a 4:** 1 segundo de ventaja.
+* **5 a 8:** 2 segundos de ventaja.
+* **9 a 12:** 3 segundos de ventaja.
 
-### Retirada de Unidad Fénix (Halcón)
-Negociación para que la unidad aérea se retire de la zona o persecución **hasta que se rompan causales**.
+### Retirada de Unidad Aérea (Halcón)
+Petición formal para que el helicóptero policial se repliegue del área de operaciones y cese el seguimiento **hasta que se produzca la ruptura de causales**.
 
 ### Retirada de Unidad Interceptor
-Negociación para que la unidad Interceptor se retire del lugar o persecución **hasta que se rompan causales**.
+Petición formal para que la unidad especializada *Interceptor* se retire del despliegue de persecución **hasta que se incurra en ruptura de causales**.
 
-### Requerimientos Especiales
-Los criminales pueden solicitar insumos básicos (chalecos, municiones, alimentos) a cambio de rehenes, siempre que sean peticiones claras y no comprometan la seguridad.
+### Requerimientos Especiales de Suministros
+Los infractores pueden demandar recursos logísticos básicos (como blindaje corporal, munición o víveres) a cambio de la liberación de rehenes, siempre que sean peticiones razonables que no pongan en riesgo la seguridad operativa.
 
-!!! danger "Autorización Previa y Coherencia"
-    * El oficial negociador debe **solicitar autorización previa al mando a cargo** antes de aceptar o rechazar cualquier requerimiento especial.
-    * La SAPD podrá establecer condiciones para aceptar la negociación con el fin de equilibrar la situación, siempre que estas tengan coherencia y lógica operativa.
+!!! danger "Autorización y Criterio de Coherencia"
+    * El oficial negociador tiene la obligación de **consultar y obtener la autorización previa del mando a cargo** antes de aceptar o rechazar cualquier requerimiento especial.
+    * El LSPD podrá imponer contraofertas o condiciones para equilibrar el acuerdo, priorizando siempre la coherencia y la lógica táctica del procedimiento.
