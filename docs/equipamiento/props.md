@@ -1,68 +1,46 @@
-# 3.2 Props y Uso
+# 3.2 Props y Uso Operativo
 
-!!! danger "⚠️ ADVERTENCIA IMPORTANTE: PROPS PROHIBIDOS"
-    **LOS PROPS ESTÁN STRICTAMENTE PROHIBIDOS.** 
+!!! danger "🚫 Prohibición Absoluta: Escalada y Accesos con Props"
+    Queda **estrictamente prohibido** utilizar conos, barreras o cualquier tipo de prop táctico para trepar, escalar o acceder a zonas elevadas, techos, estructuras de yates, puntos ciegos o perímetros en Zonas de Riesgo (ZR). El uso de props con este fin se considerará una infracción grave a las normativas de rol y derivará en sanción disciplinaria.
+
+---
+
+## 🛠️ Regulación de Despliegue de Elementos Tácticos
+
+=== "🚧 Conos y Barreras"
+    **Uso permitido:** Exclusivamente para control perimetral.
     
-    Queda totalmente prohibido el despliegue de conos, barreras, pinchos, radares, cámaras o cualquier otro objeto táctico/operativo en la vía pública hasta nuevo aviso por parte de la Dirección SAPD.
+    **Reglas y aplicación:**
+    * **No son negociables:** No forman parte de los acuerdos o términos durante atracos o tomas de rehenes.
+    * Su función es estrictamente el desvío de tráfico, delimitación de escenas de crimen y cierre perimetral de seguridad.
+    * En situaciones de fuga o salida limpia pactada, se debe garantizar un carril de evacuación libre de obstrucciones físicas.
+
+=== "⚙️ Pinchos y Dispositivos de Inmovilización"
+    **Uso permitido:** Regulado por protocolo de persecución.
+    
+    **Reglas y aplicación:**
+    * **No son negociables:** Su despliegue responde únicamente a decisiones tácticas operativas en persecuciones activas.
+    * **Límite operativo:** Máximo 4 pinchos por procedimiento.
+    * Queda prohibido colocarlos directamente pegados detrás o debajo de vehículos detenidos. Su instalación debe ser estratégica en rutas probables de escape o intersecciones para canalizar la huida.
+
+=== "📹 Cámaras de Seguridad"
+    **Uso permitido:** Restringido a infraestructuras con circuito cerrado disponible.
+    
+    **Reglas y aplicación:**
+    * Las cámaras solo podrán ser monitoreadas o empleadas si la ubicación dispone físicamente de este sistema.
+    * **Puntos autorizados:** Joyería, Banco Central, tiendas Badulaque 24/7 y establecimientos Ammu-Nation (si disponen del sistema activo).
+    * No se permite el despliegue ni la instalación de cámaras improvisadas en ubicaciones ajenas a las mencionadas sin autorización expresa de la Dirección del LSPD.
+
+=== "📡 Radares y Señalización"
+    **Uso permitido:** Operativos de control vial y prevención.
+    
+    **Reglas y aplicación:**
+    * **No son negociables.**
+    * Se emplean en controles de velocidad, retenes preventivos, accesos a la ciudad y monitoreo de tráfico.
+    * Prohibida su colocación dentro del perímetro inmediato de una negociación en curso.
 
 ---
 
-=== "Conos"
-
-    **Uso permitido:** Permitido y negociable.
-
-    **Reglas y aplicación:**
-    - Negociable en tomas de rehenes y atracos.
-    - Se utilizan para control de tránsito, cierres parciales y desvíos.
-
-=== "Barreras"
-
-    **Uso permitido:** Permitido y negociable.
-
-    **Reglas y aplicación:**
-    - Negociable en tomas de rehenes y atracos.
-    - Se emplean en cierres completos, protección de personal y control de zonas.
-    - Siempre debe dejarse una ruta segura si se pacta "salida limpia".
-
-=== "Señalización"
-
-    **Uso permitido:** Permitido.
-
-    **Reglas y aplicación:**
-    - Uso libre para marcar zonas.
-    - Pueden emplearse en cualquier operativo policial.
-    - No influyen directamente en negociaciones.
-
-=== "Pinchos"
-
-    **Uso permitido:** Permitido con restricción.
-
-    **Reglas y aplicación:**
-    - Negociable durante tomas de rehenes o atracos.
-    - **Sin negociación:** Máximo 4 pinchos; no pueden colocarse cerca ni detrás del vehículo en persecución, solo podrán utilizarse para evitar que los criminales tomen ciertas rutas.
-    - Uso estratégico en intersecciones o rutas probables.
-
-=== "Radares"
-
-    **Uso permitido:** Permitido fuera de negociaciones.
-
-    **Reglas y aplicación:**
-    - No negociables.
-    - Se utilizan para control de velocidad, búsqueda y vigilancia de vehículos.
-    - Autorizados en retenes, accesos y salidas de zonas críticas.
-    - Prohibido instalarlos en el punto exacto de negociación.
-
-=== "Cámaras"
-
-    **Uso permitido:** Permitido con autorización exclusiva de Jefatura LSPD.
-
-    **Reglas y aplicación:**
-    - Se emplean en redadas, allanamientos, operativos, monitoreos e investigaciones.
-    - Su colocación debe ser roleada de manera encubierta por equipos especiales (SWAT/GND).
-    - Pueden ser utilizadas para la elaboración de carpetas de investigación.
-
----
-
-!!! danger "Responsabilidad en el uso de objetos"
-    * Todo oficial que coloque conos, pinchos, radares, cámaras u otros objetos está obligado a retirarlos al finalizar el procedimiento.
-    * El incumplimiento de esta responsabilidad conllevará sanciones por negligencia.
+!!! danger "Responsabilidad y Limpieza de Escena"
+    * Todo oficial que despliegue conos, pinchos, radares o elementos perimetrales está **obligado a retirarlos de la vía pública** inmediatamente al finalizar el procedimiento policial.
+    * Abandonar props en el mapa será sancionado como negligencia operativa.
